@@ -1,0 +1,37 @@
+Conditions_mapped_concept_id,Conditions_mapped_official_concept,Phecode Category,PhecodeString
+C0009376,Colonic Polyps,208,Benign neoplasm of colon
+C0006142,Malignant neoplasm of breast,174,Breast cancer
+C0011884,Diabetic Retinopathy,250,Diabetes mellitus
+C0009402,Colorectal Carcinoma,153,Colorectal cancer
+C0376358,Malignant neoplasm of prostate,185,Cancer of prostate
+C4551463,Colon adenoma,208,Benign neoplasm of colon
+C0949059,Polyp of large intestine,208,Benign neoplasm of colon
+C0009378,colonoscopy,1010,Other tests
+C0011860,"Diabetes Mellitus, Non-Insulin-Dependent",250,Diabetes mellitus
+C5203670,COVID-19 Virus Disease,,COVID-19 Virus Disease
+C0018801,Heart failure,428,Congestive heart failure; nonhypertensive
+C0242379,Malignant neoplasm of lung,165,Cancer within the respiratory system
+C0004238,Atrial Fibrillation,427,Cardiac dysrhythmias
+C0009404,Colorectal Neoplasms,158,Neoplasm of unspecified nature of digestive system
+C0010054,Coronary Arteriosclerosis,411,Ischemic Heart Disease
+C0003467,Anxiety,300,"Anxiety, phobic and dissociative disorders"
+C0038454,Cerebrovascular accident,433,Cerebrovascular disease
+C0001430,Adenoma,229,Benign neoplasm of unspecified sites
+C0007222,Cardiovascular Diseases,429,Ill-defined descriptions and complications of heart disease
+C0011570,Mental Depression,296,Mood disorders
+C0015397,Disorder of eye,360,Disorders of the globe
+C0009375,Colonic Neoplasms,158,Neoplasm of unspecified nature of digestive system
+C0017601,Glaucoma,365,Glaucoma
+C0024623,Malignant neoplasm of stomach,151,Cancer of stomach
+C0020538,Hypertensive disease,401,Hypertension
+C0036690,Septicemia,994,Sepsis and SIRS
+C1302401,Adenoma of large intestine,208,Benign neoplasm of colon
+C0199230,Screening for cancer,1010,Other tests
+C0017178,Gastrointestinal Diseases,569,Other disorders of intestine
+C0007102,Malignant tumor of colon,153,Colorectal cancer
+C0016658,Fracture,1009,"Injury, NOS"
+C0007114,Malignant neoplasm of skin,172,Skin cancer
+C0014245,Endoscopy (procedure),1010,Other tests
+C0235974,Pancreatic carcinoma,157,Pancreatic cancer
+C0011847,Diabetes,250,Diabetes mellitus
+C0011854,"Diabetes Mellitus, Insulin-Dependent",250,Diabetes mellitus
