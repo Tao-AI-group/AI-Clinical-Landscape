@@ -12,7 +12,7 @@ This study characterizes the functional roles, data modalities, and clinical app
 
 * **Data/**: Datasets containing the clinical trial records and associated extracted metadata.
 * **Script/**: Code and scripts used for the automated LLM annotation pipeline, semantic standardization of medical conditions, and statistical analysis.
-* **Figure/**: Visualizations and plots generated from the analysis (e.g., Sankey diagrams of modality-application pipelines, bar charts of trial characteristics).
+* **Figures/**: Visualizations and plots generated from the analysis (e.g., Sankey diagrams of modality-application pipelines, bar charts of trial characteristics).
 
 ## Key Findings
 
